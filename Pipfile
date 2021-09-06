@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 pandas = "*"
 spacy = "*"
+tensorflow = "*"
+sklearn = "*"
+gensim = "*"
+matplotlib = "*"
 
 [dev-packages]
 
