@@ -10,6 +10,12 @@ tensorflow = "*"
 sklearn = "*"
 gensim = "*"
 matplotlib = "*"
+openpyxl = "*"
+camelot = "*"
+pypdf2 = "*"
+pdf2image = "*"
+pytesseract = "*"
+xlrd = "*"
 
 [dev-packages]
 
